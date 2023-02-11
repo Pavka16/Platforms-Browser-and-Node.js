@@ -1,0 +1,19 @@
+{
+  "name": "@pavka16/platforms-browser-and-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavka16/Platforms-Browser-and-Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavka16/Platforms-Browser-and-Node.js/issues"
+  },
+  "homepage": "https://github.com/Pavka16/Platforms-Browser-and-Node.js#readme"
+}
